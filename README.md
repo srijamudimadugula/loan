@@ -38,3 +38,29 @@ The analysis includes:
 2. Make sure you have Python installed.
 3. Install the project dependencies:
 
+**pip install -r requirements.txt**
+4. Launch the Jupyter Notebook:
+
+**jupyter notebook credit_EDA.ipynb**
+5. Run each cell step by step to follow the analysis.
+
+## Project Files
+
+- `credit_EDA.ipynb`: Main exploratory data analysis notebook.
+- `CREDIT EDA.pdf`: A PDF report version of the notebook.
+- `README.md`: Project overview.
+
+## Key Insights
+
+This analysis highlights patterns that can help lenders:
+
+- Better understand which applicants are likely to default.
+- Identify data gaps that need further investigation.
+- Build a foundation for predictive modeling and credit scoring.
+
+## Author
+
+M. Srija
+
+
+
